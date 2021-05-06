@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../assign/cal-impl/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../assign/cal-impl/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../assign/cal-impl">
+      <sourceFolder url="file://$MODULE_DIR$/../assign/cal-impl/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../assign/cal-impl/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../assign/cal-impl/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../assign/cal-impl/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
